@@ -1,5 +1,4 @@
-<h1 align="center">Salut👋,je suis Fedi</h1>
-
+<h1 align="left">Salut👋,je suis Fedi</h1>
 
 ###
 
@@ -10,9 +9,6 @@
 <h2 align="left">About me</h2>
 
 ###
-<h3 align="left">Contact:</h3>
-###
-
 
 <p align="center">✨ Étudiant développeur web à la recherche d'une alternance dans le cadre de ma formation en Bachelor pour septembre 2024.</p>
 
