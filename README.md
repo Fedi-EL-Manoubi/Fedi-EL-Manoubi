@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Langages et outils</h2>
+<h2 align="left">Langages et outils :</h2>
 
 ###
 
