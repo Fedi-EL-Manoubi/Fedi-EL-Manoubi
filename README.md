@@ -2,15 +2,23 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left"></p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">À propos de moi :</h2>
 
 ###
 
-<p align="center">✨ Étudiant développeur web à la recherche d'une alternance dans le cadre de ma formation en Bachelor pour septembre 2024.</p>
+<h3 align="center">✨ Étudiant développeur web à la recherche d'une alternance dans le cadre de ma formation en Bachelor pour septembre 2024.</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/f%C3%A9di-el-manoubi-498752268/?trk=opento_sprofile_pfeditor" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
