@@ -3,7 +3,7 @@
 
 <h3 align="left">Contact moi:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/fédi-el-manoubi-498752268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fédi-el-manoubi-498752268" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/f%C3%A9di-el-manoubi-498752268/?trk=opento_sprofile_pfeditor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fédi-el-manoubi-498752268" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
