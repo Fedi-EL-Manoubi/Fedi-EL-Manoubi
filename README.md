@@ -1,5 +1,5 @@
-<h1 align="center">Salut👋, Je suis Fedi</h1>
-<h3 align="center">Etudient Développeur Web a la recherche d'une alternance dans le cadre de ma formation en Bachelor pour Septembre 2024</h3>
+<h1 align="center">Salut👋, je suis Fedi</h1>
+<h3 align="center"> étudiant développeur web à la recherche d'une alternance dans le cadre de ma formation en Bachelor pour septembre 2024.</h3>
 
 <h3 align="left">Contact moi:</h3>
 <p align="left">
