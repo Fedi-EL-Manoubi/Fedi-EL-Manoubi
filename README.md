@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">✨ Étudiant développeur web à la recherche d'une alternance dans le cadre de ma formation en Bachelor pour septembre 2024.</h3>
+<h3 align="center">✨ Étudiant développeur web en alternance.</h3>
 
 ###
 
