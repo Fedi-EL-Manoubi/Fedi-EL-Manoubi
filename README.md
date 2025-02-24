@@ -14,11 +14,8 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/f%C3%A9di-el-manoubi-498752268/?trk=opento_sprofile_pfeditor" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/f%C3%A9di-el-manoubi-498752268/?trk=opento_sprofile_pfeditor)
+
 
 
 ###
