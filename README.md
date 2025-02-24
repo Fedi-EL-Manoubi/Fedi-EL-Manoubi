@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">Technologies et compétences</h2>
+<h2 align="left">Technologies et compétences :</h2>
 
 ###
 
