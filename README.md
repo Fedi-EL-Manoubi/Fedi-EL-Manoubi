@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">Langages et outils :</h2>
+<h2 align="left">Technologies et compétences</h2>
 
 ###
 
@@ -68,5 +68,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 </div>
-###
 ###
