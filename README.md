@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">✨ Étudiant développeur web en alternance.</h3>
+<h3 align="center">✨ Étudiant Informatique en alternance.</h3>
 
 ###
 
